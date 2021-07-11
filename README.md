@@ -2,8 +2,8 @@
 
 Developed by:
 
-Siddharth Nagpure
-Anjani Nimmakayala
+1. Siddharth Nagpure
+2. Anjani Nimmakayala
 
 ## Problem Statement
 
